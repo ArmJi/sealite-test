@@ -1,5 +1,5 @@
 # SEALITE GROUP TEST
 
-Using Python
+Use Python to solve problems.
 
 
